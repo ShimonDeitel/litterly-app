@@ -1,0 +1,27 @@
+{
+  "identifier": "storekit_config",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "4.99",
+      "familyShareable": false,
+      "internalID": "pro_unlock",
+      "localizations": [
+        {
+          "description": "Unlocks unlimited entries and premium features.",
+          "displayName": "Litterly Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.litterlog.pro_unlock",
+      "referenceName": "Litterly Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
